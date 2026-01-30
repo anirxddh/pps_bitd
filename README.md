@@ -34,7 +34,6 @@ Programs are organized in a clean and logical structure:
 ```text
 C_PPS/
 ├── Class_Programs/
-├── Lab_Assignments_1/
 ├── Lab_Assignments_2/
 ├── Lab_Assignments_3/
 ├── Lab_Assignments_4/
