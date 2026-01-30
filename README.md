@@ -28,17 +28,20 @@ concepts in C through **clear, well-structured example programs**.
 ---
 
 ## 📂 Repository Structure
-Programs are organized in a proper way for an clean walkthrough:
-C PPS/
-│
-├── Class Programs/
-├── Lab Assignments 1/
-├── Lab Assignments 2/
-├── Lab Assignments 3/
-├── Lab Assignments 4/
-├── Lab Assignments 5/
-├── Lab Assignments 6/
-└── Lab Assignments 7/
+
+Programs are organized in a clean and logical structure:
+
+```text
+C_PPS/
+├── Class_Programs/
+├── Lab_Assignments_1/
+├── Lab_Assignments_2/
+├── Lab_Assignments_3/
+├── Lab_Assignments_4/
+├── Lab_Assignments_5/
+├── Lab_Assignments_6/
+└── Lab_Assignments_7/
+```
 
 
 Each folder contains:
